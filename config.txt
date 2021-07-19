@@ -1,0 +1,6 @@
+data_path=/root/paddlejob/workspace/train_data/datasets/data99529/THUCNews.content.shuf.txt.shuf1w.txt
+num_epochs=1
+batch_size=64
+max_seq_len=128
+bert_name=bert-base-chinese
+temperature=0.05
